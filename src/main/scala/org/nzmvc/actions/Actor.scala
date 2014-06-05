@@ -1,4 +1,4 @@
-package org.nzmvc.domain
+package org.nzmvc.actions
 
 import scala.language.dynamics
 

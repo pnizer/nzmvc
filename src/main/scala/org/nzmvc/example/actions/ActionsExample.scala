@@ -2,7 +2,7 @@ package org.nzmvc.example.actions
 
 import org.nzmvc.example.models.{Pessoa, Cliente}
 import java.time.LocalDate
-import org.nzmvc.domain.Domain
+import org.nzmvc.actions.Domain
 
 import scala.language.dynamics
 
